@@ -6,7 +6,7 @@
  
  
   Step 3.  run docker ps 
- # ensure that kafka and zooKeeper is up and running with above command
+  ensure that kafka and zooKeeper is up and running with step 3 command
  
  Step 4.   run mvn spring-boot:run
  
