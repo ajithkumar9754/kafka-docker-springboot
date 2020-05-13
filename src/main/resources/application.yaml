@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: electonic-data-interchange
+  servlet:
+    multipart:
+      enabled: false
+      max-file-size: 50MB
+server:
+  servlet:
+    contextPath: /electonic-data-interchange
+  port: 8090
+
