@@ -19,3 +19,6 @@
  
  Check your console for recieving messages from txt file
  
+ ToDo
+ (Need to complete the functionality for complete file transfer)
+ 
